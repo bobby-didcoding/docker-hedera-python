@@ -31,3 +31,5 @@ RUN set -e; \
     python-dotenv==0.21.0 \
     six==1.16.0 \
     Werkzeug==2.2.2
+
+CMD ["python3"]
