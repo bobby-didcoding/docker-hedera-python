@@ -1,4 +1,4 @@
-# Hedera-py-jave
+# Hedera-py-java
 
 How to use this image:
 
