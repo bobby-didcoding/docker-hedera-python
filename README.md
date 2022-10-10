@@ -2,6 +2,9 @@
 
 How to use this image:
 
+***
+***
+
 ## Docker-compose
 Create a docker-compose.py file in your project root.
 >Note: In this example I am using Flask as it requires very little set-up.
@@ -74,6 +77,8 @@ Use the following command to build the docker images:
 ```
 docker-compose up -d --build
 ```
+***
+***
 
 ### Access
 You should now be up and running!
